@@ -1,0 +1,4 @@
+:root{--canvas:#181818;--elev:#303030;--light:#fff;--ink:#fff;--body:#969696;--muted:#666;--hair:#303030;--hair-l:#d2d2d2;--on-light:#181818;
+--accent:#c9a978;--accent-a:#a88a5c;--focus:#c9a978;
+--xxs:8px;--xs:16px;--sm:24px;--md:32px;--lg:48px;--xl:64px;--xxl:96px;--super:128px;
+--font:'Inter',-apple-system,system-ui,sans-serif;--gutter:clamp(20px,4vw,48px)}

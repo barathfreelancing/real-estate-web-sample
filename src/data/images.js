@@ -1,0 +1,4 @@
+// IMAGE MAP — set any value to a path like '/images/hero.jpg' (files in /public/images) and its placeholder becomes the photo.
+export const images = {hero:'/images/hero.png',featured:'/images/front_elevation.png',projectExterior:'/images/exterior.png',livingRoom:'/images/interior.png',staircase:'/images/staircase.png',landscape:'/images/landscape.png',projectDetail:'/images/detail.png',pool:'/images/infinity_pool.png',clubhouse:'/images/club_house.png',aerial:'images/bird.png',
+gallery01:'/images/exterior1.png',gallery02:'/images/living.png',gallery03:'/images/bedroom.png',gallery04:'/images/pool.png',gallery05:'/images/material_detail.png',gallery06:'/images/night_exterior.png',
+p1:'/images/house1.png',p2:'/images/house2.png',p3:'/images/house3.png',p4:'/images/house4.png',p5:'/images/house5.png',p6:'/images/house6.png'};
